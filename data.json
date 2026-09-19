@@ -1,0 +1,17 @@
+{
+  "mounts": [
+    {
+      "path": "/Users/piyush/Documents/RQuest_Vaults/demo",
+      "label": "Demo",
+      "id": "location-1",
+      "color": "#5b8def"
+    }
+  ],
+  "recursive": true,
+  "showIndicator": true,
+  "enableSymlinks": true,
+  "symlinkFolder": "MILO_Symlinks",
+  "allowCrossLocationMoves": false,
+  "filetypeRules": [],
+  "interceptPaste": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "milo",
+  "name": "MILO",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Store and manage Obsidian attachments across multiple locations. Keep heavy files outside your vault while MILO resolves and indexes them seamlessly.",
+  "author": "Piyush",
+  "isDesktopOnly": true,
+  "website": "https://milo-obsidian.com"
+}
