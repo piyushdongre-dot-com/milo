@@ -147,6 +147,3 @@ MILO Free is open source and available under the MIT License.
 ## Licence
 
 MILO Free is licensed under the [MIT License](LICENSE).
-
-```
-```
