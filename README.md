@@ -7,6 +7,8 @@
 
 **Multiple Location Manager & Indexer for Obsidian**
 
+[Upgrade to MILO Pro](https://dodo.pe/aq5yajoqmm7)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Store Obsidian attachments outside your vault while continuing to use normal wikilinks and embeds.
