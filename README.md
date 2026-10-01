@@ -7,7 +7,7 @@
 
 **Multiple Location Manager & Indexer for Obsidian**
 
-[Upgrade to MILO Pro](https://dodo.pe/aq5yajoqmm7)
+[Upgrade to MILO Pro](https://buy.polar.sh/polar_cl_0Fp5DrUNYIRAFH19uvtu9149HytkHfoZBVrHy493waJ)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -111,7 +111,7 @@ CSV, XLSX        → Datasets
 
 MILO Pro is available with a one-time payment and lifetime licence.
 
-[Upgrade to MILO Pro](https://dodo.pe/aq5yajoqmm7)
+[Upgrade to MILO Pro](https://buy.polar.sh/polar_cl_0Fp5DrUNYIRAFH19uvtu9149HytkHfoZBVrHy493waJ)
 
 
 ## How It Works
