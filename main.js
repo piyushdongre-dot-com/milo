@@ -36,7 +36,7 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian2 = require("obsidian");
 var path2 = __toESM(require("path"));
 
-var MILO_PRO_UPGRADE_URL = "https://dodo.pe/aq5yajoqmm7";
+var MILO_PRO_UPGRADE_URL = "https://buy.polar.sh/polar_cl_0Fp5DrUNYIRAFH19uvtu9149HytkHfoZBVrHy493waJ";
 
 var fs = __toESM(require("fs"));
 var path = __toESM(require("path"));
